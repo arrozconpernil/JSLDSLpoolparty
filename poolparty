@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Live Slideshow</title>
+  <meta http-equiv="refresh" content="30"> <!-- Refresh every 30 seconds -->
+</head>
+<body>
+  <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSStX52sYdK9pKtXcXNJr3iQbiMLSbo4TVXtmrOu8hu3Kl8vG1qWmKKvJakpULYK7vbWAyeP5wXb6wR/embed?start=true&loop=true&delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+</body>
+</html>
